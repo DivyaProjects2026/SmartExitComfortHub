@@ -1,0 +1,43 @@
+﻿Package,Cost item,Type,Rate INR
+Essential Comfort Hub,Site survey and concept,fixed,25000
+Essential Comfort Hub,"Modular frame, roof and weather protection",area,18000
+Essential Comfort Hub,"Flooring, plinth and basic civil work",area,4500
+Essential Comfort Hub,Seating and priority seats,fixed,85000
+Essential Comfort Hub,Lighting and electrical work,fixed,45000
+Essential Comfort Hub,Signage and branding,fixed,30000
+Essential Comfort Hub,"Safety, accessibility and fire provisions",fixed,50000
+Essential Comfort Hub,"Transport, installation and commissioning",fixed,75000
+Essential Comfort Hub,Project management and contingency allowance,fixed,80000
+Smart Comfort Hub,Design and site survey,fixed,50000
+Smart Comfort Hub,Modular structure and enclosure,area,26000
+Smart Comfort Hub,"Flooring, partitions and finishes",area,7000
+Smart Comfort Hub,"Seating, priority seating and luggage space",fixed,175000
+Smart Comfort Hub,"Electrical, lighting and charging",fixed,120000
+Smart Comfort Hub,Digital display and media player,fixed,100000
+Smart Comfort Hub,QR web page and basic setup,fixed,60000
+Smart Comfort Hub,Help point and communications,fixed,50000
+Smart Comfort Hub,"Safety, accessibility and signage",fixed,90000
+Smart Comfort Hub,"Transport, installation and commissioning",fixed,150000
+Smart Comfort Hub,Project management and contingency allowance,fixed,150000
+Care+ Comfort Hub,Architectural design and site assessment,fixed,100000
+Care+ Comfort Hub,Enhanced modular structure,area,30000
+Care+ Comfort Hub,"Flooring, partitions and premium finishes",area,9500
+Care+ Comfort Hub,HVAC and ventilation,fixed,350000
+Care+ Comfort Hub,"Seating, wheelchair and stroller provision",fixed,300000
+Care+ Comfort Hub,"Digital display, network and QR setup",fixed,200000
+Care+ Comfort Hub,"Electrical, charging and emergency lighting",fixed,200000
+Care+ Comfort Hub,Water point and plumbing,fixed,150000
+Care+ Comfort Hub,Family-care / nursing area,fixed,250000
+Care+ Comfort Hub,"Safety, accessibility and fire provisions",fixed,175000
+Care+ Comfort Hub,"Installation, testing and commissioning",fixed,250000
+Care+ Comfort Hub,Project management and contingency allowance,fixed,250000
+Enterprise / Custom,"Site study, engineering and design",fixed,250000
+Enterprise / Custom,Custom structure,area,35000
+Enterprise / Custom,"Civil work, finishes and partitions",area,12000
+Enterprise / Custom,"HVAC, ventilation and electrical",fixed,900000
+Enterprise / Custom,"Furniture, access zones and storage",fixed,650000
+Enterprise / Custom,"Digital signage, network and software integration",fixed,650000
+Enterprise / Custom,"Water, plumbing and family-care facilities",fixed,500000
+Enterprise / Custom,"Safety, accessibility, fire and security",fixed,450000
+Enterprise / Custom,"Installation, testing and commissioning",fixed,500000
+Enterprise / Custom,Project management and contingency allowance,fixed,800000
